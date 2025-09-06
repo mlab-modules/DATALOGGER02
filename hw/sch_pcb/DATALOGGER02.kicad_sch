@@ -1,15 +1,14 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "d5fa3405-b56f-43e6-a8bd-3ff789d79996")
 	(paper "A4")
 	(title_block
-		(title "DATALOGGER01A")
+		(title "DATALOGGER02A")
 		(date "2022-08-14")
 		(company "Mlab www.mlab.cz")
 		(comment 2 "Universal battery powered SDcard \\ndatalogger. ")
-		(comment 3 "jacho <jacho@mlab.cz>")
 		(comment 4 "GPL 3.0")
 	)
 	(lib_symbols
@@ -91,11 +90,16 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Mechanical:MountingHole_Pad"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 1.016) hide)
+				(offset 1.016)
+				(hide yes)
+			)
 			(exclude_from_sim yes)
 			(in_bom no)
 			(on_board yes)
@@ -193,12 +197,17 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "power:GND"
 			(power)
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -289,7 +298,19 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
+	)
+	(text "Mounting holes"
+		(exclude_from_sim no)
+		(at 241.3 20.32 0)
+		(effects
+			(font
+				(size 3 3)
+			)
+			(justify left bottom)
+		)
+		(uuid "623beda9-e207-4b5a-8544-b10e901fd1da")
 	)
 	(polyline
 		(pts
@@ -370,17 +391,6 @@
 			(type default)
 		)
 		(uuid "f8ea37b0-e1d3-40f2-aa78-21dbc147f262")
-	)
-	(text "Mounting holes"
-		(exclude_from_sim no)
-		(at 241.3 20.32 0)
-		(effects
-			(font
-				(size 3 3)
-			)
-			(justify left bottom)
-		)
-		(uuid "623beda9-e207-4b5a-8544-b10e901fd1da")
 	)
 	(symbol
 		(lib_id "Mechanical:Fiducial")
@@ -1049,6 +1059,10 @@
 	(sheet
 		(at 38.1 73.66)
 		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1087,6 +1101,10 @@
 	(sheet
 		(at 189.23 35.56)
 		(size 39.37 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1125,6 +1143,10 @@
 	(sheet
 		(at 190.5 73.66)
 		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1163,6 +1185,10 @@
 	(sheet
 		(at 88.9 73.66)
 		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1201,6 +1227,10 @@
 	(sheet
 		(at 139.7 73.66)
 		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1241,4 +1271,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
