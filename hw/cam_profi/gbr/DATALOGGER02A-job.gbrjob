@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "9.0.1+1"
+      "Version": "9.0.6+1"
     },
-    "CreationDate": "2025-09-06T16:26:38+00:00"
+    "CreationDate": "2026-01-18T09:59:09+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -24,18 +24,18 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.1524,
-      "PadToTrack": 0.1524,
-      "TrackToTrack": 0.1524,
+      "PadToPad": 0.1778,
+      "PadToTrack": 0.1778,
+      "TrackToTrack": 0.2,
       "MinLineWidth": 0.1778,
-      "TrackToRegion": 0.1524,
-      "RegionToRegion": 0.1524
+      "TrackToRegion": 0.2,
+      "RegionToRegion": 0.2
     },
     {
       "Layers": "Inner",
       "PadToPad": 0.0,
       "PadToTrack": 0.0,
-      "TrackToTrack": 0.1524,
+      "TrackToTrack": 0.2,
       "MinLineWidth": 0.1778,
       "TrackToRegion": 0.508,
       "RegionToRegion": 0.508
@@ -54,12 +54,12 @@
     },
     {
       "Path": "DATALOGGER02-In1_Cu.gbr",
-      "FileFunction": "Copper,L5,Inr",
+      "FileFunction": "Copper,L2,Inr",
       "FilePolarity": "Positive"
     },
     {
       "Path": "DATALOGGER02-In2_Cu.gbr",
-      "FileFunction": "Copper,L7,Inr",
+      "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },
     {

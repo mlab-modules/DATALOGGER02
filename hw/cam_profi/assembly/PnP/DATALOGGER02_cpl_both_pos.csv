@@ -44,7 +44,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C48","47pF","C_0805_2012Metric",-28.8260,61.0550,90.0000,bottom
 "C49","2p4","C_0603_1608Metric",-31.1260,55.1550,0.0000,bottom
 "C50","-","C_0603_1608Metric",-31.8260,59.9550,180.0000,bottom
-"C51","-","C_0603_1608Metric",-34.7260,54.3550,-90.0000,bottom
+"C51","-","C_0603_1608Metric",-33.4264,54.3814,-90.0000,bottom
 "C52","3p3","C_0603_1608Metric",-31.8260,58.3550,0.0000,bottom
 "C53","5p6","C_0603_1608Metric",-34.2260,58.3550,90.0000,bottom
 "C54","39pF","C_0603_1608Metric",-35.8260,58.3550,-90.0000,bottom
@@ -52,7 +52,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C56","1nF","C_0805_2012Metric",-39.8260,53.2870,0.0000,bottom
 "C57","39pF","C_0603_1608Metric",-43.0260,55.9550,0.0000,bottom
 "C58","3p3","C_0603_1608Metric",-45.3260,55.2550,90.0000,bottom
-"C59","3p3","C_0603_1608Metric",-53.5260,56.0550,0.0000,bottom
+"C59","3p3","C_0603_1608Metric",-50.5460,58.4962,-90.0000,bottom
 "D1","HLMP-K150+FIX-LED-313","LED_1206_mill",41.8880,57.7850,0.0000,bottom
 "D2","M4","Diode-SMA_Standard",38.5760,35.1790,0.0000,bottom
 "F1","1.2A","1812",36.5760,40.4310,90.0000,bottom
@@ -67,7 +67,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "IC3","LTC4041EUFD#PBF","QFN-24-1EP_4x5mm_P0.5mm_EP2.65x3.65mm",20.0540,44.5380,180.0000,bottom
 "J1","HEADER_2x01_PARALLEL","Straight_2x01",9.6520,50.9270,0.0000,top
 "J2","HEADER_2x01","Straight_2x01",-24.3060,45.1230,0.0000,top
-"J3","HEADER_2x03","Straight_2x03",11.9380,67.6910,90.0000,top
+"J3","HEADER_2x03","SMD_2x03_WO_paste",11.9380,67.6910,90.0000,top
 "J4","HEADER_2x03_PARALLEL","Straight_2x03",-10.4140,67.6910,90.0000,top
 "J5","HEADER_2x03_PARALLEL","Straight_2x03",41.9100,51.9430,180.0000,top
 "J6","MCC-SD (kouka z modulu)","MCC-SD",-41.6710,34.9250,-90.0000,top
@@ -78,6 +78,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "J11","HEADER_2x07_PARALLEL","Straight_2x07",-23.8760,67.6910,90.0000,top
 "J12","HEADER_2x05_PARALLEL","Straight_2x05",-24.6380,14.8590,90.0000,top
 "J13","HEADER_2x02_PARALLEL","Straight_2x02",-36.0680,67.6910,90.0000,top
+"J14","Conn_01x06_Female","JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal",23.9776,14.7574,0.0000,top
 "J23","MCX","MCX",-50.5460,56.0070,0.0000,top
 "J24","HEADER_2x03_PARALLEL","Straight_2x03",41.9100,41.2750,0.0000,top
 "L1","10uH - LQH32CN100K23L","SMD-1210",-19.0500,40.7670,0.0000,bottom

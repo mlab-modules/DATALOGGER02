@@ -8,7 +8,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "H4","MountingHole_Pad","MountingHole_3mm",-50.5460,66.6750,0.0000,top
 "J1","HEADER_2x01_PARALLEL","Straight_2x01",9.6520,50.9270,0.0000,top
 "J2","HEADER_2x01","Straight_2x01",-24.3060,45.1230,0.0000,top
-"J3","HEADER_2x03","Straight_2x03",11.9380,67.6910,90.0000,top
+"J3","HEADER_2x03","SMD_2x03_WO_paste",11.9380,67.6910,90.0000,top
 "J4","HEADER_2x03_PARALLEL","Straight_2x03",-10.4140,67.6910,90.0000,top
 "J5","HEADER_2x03_PARALLEL","Straight_2x03",41.9100,51.9430,180.0000,top
 "J6","MCC-SD (kouka z modulu)","MCC-SD",-41.6710,34.9250,-90.0000,top
@@ -19,5 +19,6 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "J11","HEADER_2x07_PARALLEL","Straight_2x07",-23.8760,67.6910,90.0000,top
 "J12","HEADER_2x05_PARALLEL","Straight_2x05",-24.6380,14.8590,90.0000,top
 "J13","HEADER_2x02_PARALLEL","Straight_2x02",-36.0680,67.6910,90.0000,top
+"J14","Conn_01x06_Female","JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal",23.9776,14.7574,0.0000,top
 "J23","MCX","MCX",-50.5460,56.0070,0.0000,top
 "J24","HEADER_2x03_PARALLEL","Straight_2x03",41.9100,41.2750,0.0000,top

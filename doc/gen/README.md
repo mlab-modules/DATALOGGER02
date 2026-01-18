@@ -37,7 +37,7 @@ Stackup:
 
 # Important sizes
 
-Clearance: 0.15 mm (6 mils)
+Clearance: 0.2 mm (8 mils)
 
 Track width: 0.18 mm (7 mils)
 
@@ -68,7 +68,7 @@ Eurocircuits class: 6D
 
 Components count: (SMD/THT)
 
-- Top: 6/16 (SMD + THT)
+- Top: 8/15 (SMD + THT)
 - Bottom: 131/1 (SMD + THT)
 
 Defined tracks:
@@ -83,11 +83,11 @@ Defined tracks:
 Used tracks:
 
 - 0.18 mm (7 mils) (57) defined: no
-- 0.25 mm (10 mils) (896) defined: no
+- 0.25 mm (10 mils) (895) defined: no
 - 0.28 mm (11 mils) (1) defined: no
 - 0.3 mm (12 mils) (22) defined: yes
 - 0.33 mm (13 mils) (18) defined: no
-- 0.5 mm (20 mils) (47) defined: yes
+- 0.5 mm (20 mils) (49) defined: yes
 - 0.51 mm (20 mils) (20) defined: no
 - 0.64 mm (25 mils) (8) defined: no
 - 0.89 mm (35 mils) (165) defined: no
@@ -103,7 +103,7 @@ Holes (excluding vias):
 
 - 0.2 mm (8 mils) (9)
 - 0.25 mm (10 mils) (2)
-- 0.89 mm (35 mils) (66)
+- 0.89 mm (35 mils) (60)
 - 1.1 mm (43 mils) (1)
 - 1.2 mm (47 mils) (2)
 - 1.5 mm (59 mils) (1)
@@ -119,7 +119,7 @@ Drill tools (including vias and computing adjusts and rounding):
 - 0.3 mm (12 mils) (9)
 - 0.35 mm (14 mils) (2)
 - 0.5 mm (20 mils) (262)
-- 1.0 mm (39 mils) (66)
+- 1.0 mm (39 mils) (60)
 - 1.1 mm (43 mils) (1)
 - 1.3 mm (51 mils) (2)
 - 1.6 mm (63 mils) (2)
@@ -135,9 +135,9 @@ The stencil thickness is  0.12 mm.
 
 | Side   | Pads with paste | Area [mm²] | Paste [g] |
 |--------|-----------------|------------|-----------|
-| Top    |              38 |      65.23 |      0.32 |
+| Top    |              46 |      76.51 |      0.38 |
 | Bottom |             465 |     531.52 |      2.65 |
-| Total  |             503 |     596.75 |      2.97 |
+| Total  |             511 |     608.03 |      3.03 |
 
 Note: this is just an approximation to the theoretical value. Margins of the solder mask and waste aren't computed.
 
