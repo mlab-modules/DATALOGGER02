@@ -10,14 +10,14 @@ github_url: https://github.com/mlab-modules/DATALOGGER02
 homepage: false
 image_title: doc/gen/img/DATALOGGER02-top.png
 images:
-- doc/gen/img/DATALOGGER02-bottom.png
 - doc/gen/img/DATALOGGER02-top.png
-- doc/gen/DATALOGGER02-Peripherals.svg
-- doc/gen/DATALOGGER02-schematic.svg
+- doc/gen/img/DATALOGGER02-bottom.png
 - doc/gen/DATALOGGER02-Telemetry.svg
-- doc/gen/DATALOGGER02-Power_management.svg
-- doc/gen/DATALOGGER02-Connectors.svg
 - doc/gen/DATALOGGER02-Microcontroller.svg
+- doc/gen/DATALOGGER02-schematic.svg
+- doc/gen/DATALOGGER02-Connectors.svg
+- doc/gen/DATALOGGER02-Power_management.svg
+- doc/gen/DATALOGGER02-Peripherals.svg
 - doc/gen/img/DATALOGGER02-bottom.svg
 - doc/gen/img/DATALOGGER02-top.svg
 - hw/cam_profi/assembly/DATALOGGER02-assembly_page_02.svg
@@ -36,4 +36,4 @@ tags:
 - mlab-kicad
 - pcb
 title: DATALOGGER02
-updated: '2025-09-06T16:28:07.941131+00:00'
+updated: '2026-01-18T09:58:23.589948+00:00'
