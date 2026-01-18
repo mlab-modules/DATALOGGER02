@@ -2737,7 +2737,7 @@
 		)
 		(uuid "141fd09a-ddac-43d2-b021-012b299ec611")
 	)
-	(text "I2C PULL UPS"
+	(text "I2C pull-ups"
 		(exclude_from_sim no)
 		(at 233.68 21.59 0)
 		(effects
@@ -2748,7 +2748,7 @@
 		)
 		(uuid "56d5d7b4-931f-48c7-94b5-bee5bef940aa")
 	)
-	(text "ICSP"
+	(text "ISP"
 		(exclude_from_sim no)
 		(at 177.8 24.13 0)
 		(effects
@@ -6977,7 +6977,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Mlab_Pin_Headers:Straight_2x03"
+		(property "Footprint" "Mlab_Pin_Headers:SMD_2x03_WO_paste"
 			(at 181.61 31.75 0)
 			(effects
 				(font
@@ -6995,6 +6995,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 181.61 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "UST_ID" ""
 			(at 181.61 34.29 0)
 			(effects
 				(font
