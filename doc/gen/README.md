@@ -39,25 +39,25 @@ Track width: 0.18 mm (7 mils)
 
 - By design rules: 0.18 mm (7 mils)
 
-Drill: 0.5 mm (20 mils)
+Drill: 0.3 mm (12 mils)
 
-- Vias: 0.5 mm (20 mils) [Design: 0.5 mm (20 mils)]
-- Pads: 0.5 mm (20 mils)
+- Vias: 0.5 mm (20 mils) [Design: 0.3 mm (12 mils)]
+- Pads: 0.3 mm (12 mils)
 - The above values are real drill sizes, they add 0.1 mm (4 mils) to plated holes (PTH)
 
 Via: 0.8/0.4 mm (31/16 mils)
 
-- By design rules: 0.8/0.4 mm (31/16 mils)
+- By design rules: 0.8/0.2 mm (31/8 mils)
 - Micro via: yes [0.15/0.1 mm (6/4 mils)]
 - Buried/blind via: yes
-- Total: 283 (thru: 283 buried/blind: 0 micro: 0)
+- Total: 282 (thru: 282 buried/blind: 0 micro: 0)
 
 Outer Annular Ring: 0.05 mm (2 mils)
 
 - By design rules: 0.05 mm (2 mils)
 
-Eurocircuits class: 10B
-- Using min drill 0.5 mm for an OAR of 0.05 mm
+Eurocircuits class: 10D
+- Using min drill 0.25 mm for an OAR of 0.05 mm
 
 
 # General stats
@@ -70,14 +70,8 @@ Components count: (SMD/THT)
 Defined tracks:
 
 - 0.2 mm (8 mils)
-- 0.3 mm (12 mils)
-- 0.4 mm (16 mils)
-- 0.5 mm (20 mils)
 - 0.6 mm (24 mils)
-- 0.8 mm (31 mils)
 - 1.0 mm (39 mils)
-- 2.0 mm (79 mils)
-- 4.0 mm (157 mils)
 
 Used tracks:
 
@@ -85,29 +79,30 @@ Used tracks:
 - 0.2 mm (8 mils) (36) defined: yes
 - 0.25 mm (10 mils) (807) defined: no
 - 0.28 mm (11 mils) (1) defined: no
-- 0.3 mm (12 mils) (126) defined: yes
+- 0.3 mm (12 mils) (126) defined: no
 - 0.33 mm (13 mils) (17) defined: no
-- 0.4 mm (16 mils) (69) defined: yes
-- 0.5 mm (20 mils) (79) defined: yes
+- 0.4 mm (16 mils) (69) defined: no
+- 0.5 mm (20 mils) (79) defined: no
 - 0.51 mm (20 mils) (8) defined: no
 - 0.64 mm (25 mils) (5) defined: no
 - 0.7 mm (28 mils) (99) defined: no
-- 0.8 mm (31 mils) (27) defined: yes
+- 0.8 mm (31 mils) (27) defined: no
 - 0.89 mm (35 mils) (65) defined: no
 - 1.0 mm (39 mils) (28) defined: yes
-- 2.0 mm (79 mils) (2) defined: yes
+- 2.0 mm (79 mils) (2) defined: no
 
 Defined vias:
 
 
 Used vias:
 
-- 0.8/0.4 mm (31/16 mils) (Count: 250, Aspect: 2.0 A) defined: no
+- 0.8/0.4 mm (31/16 mils) (Count: 249, Aspect: 2.0 A) defined: no
 - 0.8/0.6 mm (31/24 mils) (Count: 33, Aspect: 2.0 A) defined: no
 
 Holes (excluding vias):
 
-- 0.4 mm (16 mils) (11)
+- 0.2 mm (8 mils) (9)
+- 0.4 mm (16 mils) (2)
 - 0.89 mm (35 mils) (60)
 - 1.1 mm (43 mils) (1)
 - 1.2 mm (47 mils) (2)
@@ -121,7 +116,8 @@ Oval holes:
 
 Drill tools (including vias and computing adjusts and rounding):
 
-- 0.5 mm (20 mils) (261)
+- 0.3 mm (12 mils) (9)
+- 0.5 mm (20 mils) (251)
 - 0.7 mm (28 mils) (33)
 - 1.0 mm (39 mils) (60)
 - 1.1 mm (43 mils) (1)
@@ -140,8 +136,8 @@ The stencil thickness is  0.12 mm.
 | Side   | Pads with paste | Area [mm²] | Paste [g] |
 |--------|-----------------|------------|-----------|
 | Top    |              46 |      76.51 |      0.38 |
-| Bottom |             465 |     531.52 |      2.65 |
-| Total  |             511 |     608.03 |      3.03 |
+| Bottom |             465 |     530.74 |      2.64 |
+| Total  |             511 |     607.25 |      3.02 |
 
 Note: this is just an approximation to the theoretical value. Margins of the solder mask and waste aren't computed.
 

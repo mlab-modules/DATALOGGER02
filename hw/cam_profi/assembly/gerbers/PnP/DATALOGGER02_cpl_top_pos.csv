@@ -20,7 +20,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "J12","HEADER_2x05_PARALLEL","Straight_2x05",-24.6380,14.8590,90.0000,top
 "J13","HEADER_2x02_PARALLEL","Straight_2x02",-36.0680,67.6910,90.0000,top
 "J14","Conn_01x06_Female","JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal",23.9776,14.7574,0.0000,top
-"J23","MCX","MCX",-50.5460,56.0070,0.0000,top
+"J23","VAL**","MCX",-50.5460,56.0070,0.0000,top
 "J24","HEADER_2x03_PARALLEL","Straight_2x03",41.1040,42.3150,0.0000,top
 "JP1","SolderJumper_3_Bridged12","SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels",16.5100,25.6540,180.0000,top
 "JP2","SolderJumper_3_Bridged12","SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels",11.1460,25.6540,0.0000,top
