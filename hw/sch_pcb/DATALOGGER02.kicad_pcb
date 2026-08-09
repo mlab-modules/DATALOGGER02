@@ -324,7 +324,7 @@
 			(uuid "fff40a52-2859-43f7-a160-e6c848329f75")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x03_P2.54mm_Vertical.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x03_P2.54mm_Vertical.step"
 			(offset
 				(xyz -1.27 2.54 0)
 			)
@@ -863,7 +863,7 @@
 			(uuid "0b998f04-a862-4e6a-b69f-d1c2ba2c9e44")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x05_P2.54mm_Vertical.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x05_P2.54mm_Vertical.step"
 			(offset
 				(xyz -1.27 5.08 0)
 			)
@@ -1265,6 +1265,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1276,6 +1277,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1287,6 +1289,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1397,6 +1400,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1408,6 +1412,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1419,6 +1424,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2673,7 +2679,7 @@
 			(uuid "547f8b7b-14e7-4fe2-a0c7-405e58f0f6b1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x03_P2.54mm_Vertical.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x03_P2.54mm_Vertical.step"
 			(offset
 				(xyz -1.27 2.54 0)
 			)
@@ -2748,6 +2754,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2759,6 +2766,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2770,6 +2778,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8754,7 +8763,7 @@
 			(uuid "3936a207-7710-435d-b1f6-107f6f0b815b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x01_P2.54mm_Vertical.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x01_P2.54mm_Vertical.step"
 			(offset
 				(xyz -1.27 0 0)
 			)
@@ -8830,6 +8839,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8841,6 +8851,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8852,6 +8863,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9038,7 +9050,7 @@
 			(uuid "8d6ef7c3-073d-4826-9ed7-dcb1b4fc2564")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x02_P2.54mm_Vertical.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x02_P2.54mm_Vertical.step"
 			(offset
 				(xyz 1.27 1.27 0)
 			)
@@ -9200,7 +9212,7 @@
 			(uuid "7189dfc2-c168-4097-9329-03b036fa66d3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x01_P2.54mm_Vertical.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x01_P2.54mm_Vertical.step"
 			(offset
 				(xyz -1.27 0 0)
 			)
@@ -9873,7 +9885,7 @@
 			(uuid "172c69cd-5ca9-4bd8-8ec6-8fcf952ae43c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x05_P2.54mm_Vertical.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x05_P2.54mm_Vertical.step"
 			(offset
 				(xyz -1.27 5.08 0)
 			)
@@ -10400,7 +10412,7 @@
 			(uuid "14d171d4-f387-404e-b40d-bd6d599f4ed1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x03_P2.54mm_Vertical.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x03_P2.54mm_Vertical.step"
 			(offset
 				(xyz -1.27 2.54 0)
 			)
@@ -23922,6 +23934,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -23934,6 +23947,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -24157,7 +24171,7 @@
 			(uuid "6e39e357-1d96-4c80-ab4e-bf5c4b59a01d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric.step"
 			(offset
 				(xyz -0 0 0.5)
 			)
@@ -36796,7 +36810,7 @@
 			(uuid "39ad98c3-2dfc-4452-80b8-3d9918b2c1f1")
 		)
 		(embedded_fonts no)
-		(model "${KISYS3DMOD}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37979,7 +37993,7 @@
 			(uuid "999d31d4-488b-4632-978e-79133c638b82")
 		)
 		(embedded_fonts no)
-		(model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SMA.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.step"
 			(offset
 				(xyz 0 0 0)
 			)
